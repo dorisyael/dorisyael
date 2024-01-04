@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dorisyael
+- 👋 Hi, I’m @miraygrn
 - 👀 I’m software interested in software
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on 
